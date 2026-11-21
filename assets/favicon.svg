@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Sheikh Md. Tahmid Ullah monogram">
+  <rect width="64" height="64" rx="14" fill="#FAFBF9"/>
+  <rect x="2" y="2" width="60" height="60" rx="12" fill="none" stroke="#0F6E6E" stroke-width="2.5"/>
+  <!-- Stylized DNA helix accent on left -->
+  <path d="M16 14 C24 21, 10 29, 18 36 C25 42, 14 48, 17 52" fill="none" stroke="#0F6E6E" stroke-width="2.6" stroke-linecap="round"/>
+  <path d="M22 14 C14 21, 28 29, 20 36 C13 42, 24 48, 21 52" fill="none" stroke="#B45309" stroke-width="2" stroke-linecap="round" opacity="0.85"/>
+  <line x1="16.5" y1="20" x2="21.5" y2="20" stroke="#0F6E6E" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="15.5" y1="32" x2="22" y2="32" stroke="#0F6E6E" stroke-width="1.6" stroke-linecap="round"/>
+  <line x1="16.5" y1="44" x2="21.5" y2="44" stroke="#0F6E6E" stroke-width="1.6" stroke-linecap="round"/>
+  <!-- TU Serif Monogram -->
+  <text x="41" y="42" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" font-weight="700" fill="#0F2137" letter-spacing="-1">TU</text>
+</svg>

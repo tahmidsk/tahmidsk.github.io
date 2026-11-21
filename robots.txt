@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tahmidsk.github.io/sitemap.xml
